@@ -1,6 +1,6 @@
 # Sales-Analytics-Project
 
-Sales analysis project using SQL and Power BI. Sourced sales data from https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms to perform cleansing and various sales analysis.
+Sales analysis project using SQL and Power BI. Sourced sales data from https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms
 
 To find the raw data used look in the data folder.
 To find the SQL scripts look in the scripts folder.
